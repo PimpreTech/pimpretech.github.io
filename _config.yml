@@ -1,2 +1,9 @@
+# GitHub Pages Jekyll Configuration
 include:
   - app-ads.txt
+
+# Exclude unnecessary files
+exclude:
+  - .github
+  - README.md
+  - .gitignore
